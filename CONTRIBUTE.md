@@ -1,7 +1,5 @@
 # Before You Contribute
 
-[TOC]
-
 ## Clone the repository
 
 ```shell
